@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /*
 
  We create jsdoc into gh-pages submodule in folder "docs" and auto push changes
